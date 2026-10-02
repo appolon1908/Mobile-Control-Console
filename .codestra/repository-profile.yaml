@@ -4,8 +4,8 @@ repository: "appolon1908/Mobile-Control-Console"
 canonical_url: "https://github.com/appolon1908/Mobile-Control-Console"
 default_branch_observed: "main"
 classification:
-  type: "application"
-  subtype: "frontend-web"
+  type: "mobile-platform"
+  subtype: "mobile-console"
   standalone: true
   integration_boundary: "api-or-endpoint"
 lifecycle:
